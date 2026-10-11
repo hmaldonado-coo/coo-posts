@@ -13,3 +13,7 @@
 2026-10-15 18:00 single - reputation
 2026-10-16 10:00 carousel - early warnings
 2026-10-16 18:00 single - weekly reflection
+2026-10-17 10:00 carousel - contractor relationships and trust
+2026-10-17 18:00 single - mental load of the COO seat
+2026-10-18 10:00 carousel - mistakes and what they teach
+2026-10-18 18:00 single - decision-making under pressure
